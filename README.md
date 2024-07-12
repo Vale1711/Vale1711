@@ -38,7 +38,38 @@
 
 <!--Intro end-->
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Vale1711" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vale1711" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vale1711"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Vale1711" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
 
 
 
@@ -68,7 +99,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://x.com/Vale_JK1" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo-500x281.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://x.com/Vale_JK1" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo-500x281.png" alt="twitter" height="47" width="50" /></a> 
 <a href="https://www.instagram.com/vale5gggbt/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   
 </p>
