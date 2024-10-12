@@ -26,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 Soy estudiante de Sistemas de Información -- 8vo Semestre
+- 🔭 Soy Ingeniera en Sistemas de Información
 
-- 🌱 Actualmente estoy trabajando en **Java, Python, Postgresql, MySQL**
+- 🌱 Tengo conocimiento en estos lenguajes de programación **HTML, CSS, JavaScript, Python, PHP, Dart, Postgresql, MySQL, SQL Server**
 
-- ☁️ Tengo un gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
+- ☁️ Tengo un gran interés en la computación en la nube. Entonces, he aprendido **AWS**
 
-- 💬 Pregúntame sobre  **AWS, Django, Codeigniter, Postgresql**
+- ☁️ He desarrollado mi proyecto final de carrera con la Metodología **Scrum**
 
-- 📫 Siéntete libre de comunicarte conmigo **valeria.jacome7107@utc.edu.ec**
+- 📫 Siéntete libre de comunicarte conmigo **elizabeth.vj09@gmail.com**
 
 <!--Intro end-->
 
